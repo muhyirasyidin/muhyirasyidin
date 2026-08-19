@@ -18,7 +18,7 @@ Frontend Engineer building real-time, high-concurrency systems — omnichannel m
 ## About
 
 - 🔭 Currently building **iChat** — an in-house omnichannel platform folding WhatsApp, Instagram &amp; Facebook messaging into one dashboard, with real-time WebRTC video, at **PLN Icon Plus**
-- 🧩 Co-founder @ [Spektrum Imaji](https://www.spektrumimaji.com) &amp; [Sellsquad](https://sellsquad.id)
+- 🧩 Co-founder @ [Spektrum Imaji](https://www.spektrumimaji.com) &amp; [Sellsquad](https://sellsquad.id)  &amp; [Arkarakshata](http://arkarakshata.com)
 - ⚡ Deep in real-time systems — WebRTC, WebSocket, Elasticsearch
 - 🌱 6 years shipping production frontend — Vue.js, TypeScript, React
 - 📫 Reach me at **muhyirasyidin0@gmail.com**
@@ -48,10 +48,6 @@ Frontend Engineer building real-time, high-concurrency systems — omnichannel m
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=muhyirasyidin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0E1B33" alt="GitHub Stats" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhyirasyidin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0E1B33" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=muhyirasyidin&theme=tokyonight&hide_border=true&background=0E1B33" alt="GitHub Streak" />
 
 </div>
 
